@@ -1,7 +1,7 @@
-# Snakes Cafe
+# Math-Series
 
 **Author**: Brandon Mizutani
-**Version**: 1.0.0 (PR URL: [PR URL](https://github.com/bran2miz/snakes-cafe/pull/2))
+**Version**: 1.0.0 (PR URL: [PR URL](https://github.com/bran2miz/math-series/pull/1))
 
 ## Overview
 
